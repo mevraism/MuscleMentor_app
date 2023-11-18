@@ -22,8 +22,11 @@ This Flutter app is designed to help users on their fitness journey by offering 
 ## Features
 
 -Comprehensive Macro Counter: Keep meticulous track of your nutritional intake with our advanced macro counter.
+
 -Personalized Meal Recommendations: Receive tailored meal suggestions aligned with your fitness goals for a healthier lifestyle.
+
 -Engaging Workout Sessions: Elevate your fitness routine with customized workout sessions designed to meet your specific needs.
+
 -User-Friendly Interface: Navigate effortlessly through the app's intuitive and user-friendly interface for a seamless fitness experience.
 
 ## Screenshots
