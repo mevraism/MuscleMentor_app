@@ -83,6 +83,4 @@ flutter pub get
 flutter run
 ```
 
-### License
-
-This project is licensed under the MIT [License] - see the LICENSE file for details.
+_**Thank You!**_
