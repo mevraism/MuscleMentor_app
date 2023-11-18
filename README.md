@@ -1,5 +1,6 @@
 # MuscleMentor App
 <img src="https://github.com/mevraism/MuscleMentor_app/assets/146084224/45b87427-2f5d-4dc0-87da-901967c35ddc" width="100" height="100">
+
 **MuscleMentor** is a fitness application made using flutter with macro-counter, meal recommendation, and workout session.
 
 ## Table of Contents
@@ -28,7 +29,7 @@ This Flutter app is designed to help users on their fitness journey by offering 
 ## Screenshots
 
 -Home Screen:
-![image](https://github.com/mevraism/MuscleMentor_app/assets/146084224/73422e78-671c-4ef3-a792-e14863581fdf)
+<img src="https://github.com/mevraism/MuscleMentor_app/assets/146084224/73422e78-671c-4ef3-a792-e14863581fdf" width="240" height="520">
 
 -Meal Detail:
 ![image](https://github.com/mevraism/MuscleMentor_app/assets/146084224/fb32ffc4-e3c1-408d-89e3-4753cac54a4f)
