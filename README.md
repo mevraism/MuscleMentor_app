@@ -32,14 +32,18 @@ This Flutter app is designed to help users on their fitness journey by offering 
 
 <img src="https://github.com/mevraism/MuscleMentor_app/assets/146084224/73422e78-671c-4ef3-a792-e14863581fdf" width="240" height="520">
 
+
+
 **-Meal Detail:**
 
 <img src="https://github.com/mevraism/MuscleMentor_app/assets/146084224/fb32ffc4-e3c1-408d-89e3-4753cac54a4f" width="240" height="520">
 
 
+
 **-Workout Session:**
 
 <img src="https://github.com/mevraism/MuscleMentor_app/assets/146084224/68bc1e03-5b27-4647-8fda-c85f2558f0f6" width="240" height="520">
+
 
 
 ## Getting Started
