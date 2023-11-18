@@ -1,6 +1,6 @@
 # MuscleMentor App
 ![mm](https://github.com/mevraism/MuscleMentor_app/assets/146084224/45b87427-2f5d-4dc0-87da-901967c35ddc)
-
+**MuscleMentor** is a fitness application made using flutter with macro-counter, meal recommendation, and workout session.
 
 ## Table of Contents
 
@@ -16,17 +16,27 @@
 
 ## About
 
-This Flutter project is aimed at providing users with information about various tourist spots in Bandung. It includes details such as attractions, facilities, and other relevant information to help users plan their visit to this beautiful city.
+This Flutter app is designed to help users on their fitness journey by offering comprehensive features. From a macro counter for nutrition tracking to personalized meal recommendations aligned with individual goals, and workout sessions made to enhance fitness levels. Elevate your well-being with precise information and motivation, all conveniently accessible within this fitness-centric application.
 
 ## Features
 
-- List of popular tourist destinations.
-- Detailed information about each destination.
-- User-friendly interface for easy navigation.
+-Comprehensive Macro Counter: Keep meticulous track of your nutritional intake with our advanced macro counter.
+-Personalized Meal Recommendations: Receive tailored meal suggestions aligned with your fitness goals for a healthier lifestyle.
+-Engaging Workout Sessions: Elevate your fitness routine with customized workout sessions designed to meet your specific needs.
+-User-Friendly Interface: Navigate effortlessly through the app's intuitive and user-friendly interface for a seamless fitness experience.
 
 ## Screenshots
 
-Include some screenshots or GIFs of your application here to give users a visual preview of your app.
+-Home Screen:
+![image](https://github.com/mevraism/MuscleMentor_app/assets/146084224/73422e78-671c-4ef3-a792-e14863581fdf)
+
+-Meal Detail:
+![image](https://github.com/mevraism/MuscleMentor_app/assets/146084224/fb32ffc4-e3c1-408d-89e3-4753cac54a4f)
+
+
+-Workout Session:
+![image](https://github.com/mevraism/MuscleMentor_app/assets/146084224/68bc1e03-5b27-4647-8fda-c85f2558f0f6)
+
 
 ## Getting Started
 
@@ -34,20 +44,20 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-Make sure you have Flutter and Dart installed on your machine. For more information, refer to the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+Make sure you have Flutter and Dart installed on your PC. For more information, refer to the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
 ### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bandung-tourism-app.git
+git clone https://github.com/mevraism/MuscleMentor_app
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd bandung-tourism-app
+cd MuscleMenntor_app
 ```
 
 3. Install dependencies:
